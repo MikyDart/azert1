@@ -1,0 +1,996 @@
+{
+	"asset":
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 4.26.0 glTF Exporter 1.0.6"
+	},
+	"scene": 0,
+	"accessors": [
+		{
+			"bufferView": 0,
+			"count": 36,
+			"type": "SCALAR",
+			"componentType": 5121
+		},
+		{
+			"bufferView": 1,
+			"count": 24,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ 0,
+				-0.200001061,
+				-6.51682015e-08
+			],
+			"max": [ 4,
+				2.28881831e-07,
+				4
+			]
+		},
+		{
+			"bufferView": 2,
+			"count": 24,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 3,
+			"count": 24,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 4,
+			"count": 24,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 5,
+			"count": 24,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 6,
+			"count": 12960,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 7,
+			"count": 3900,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.615405083,
+				0.00106348936,
+				-0.615404963
+			],
+			"max": [ 0.615404963,
+				0.703144073,
+				0.615405202
+			]
+		},
+		{
+			"bufferView": 8,
+			"count": 3900,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 9,
+			"count": 3900,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 10,
+			"count": 3900,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 11,
+			"count": 3900,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 12,
+			"count": 5346,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 13,
+			"count": 1467,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.419439882,
+				7.62939436e-08,
+				-0.404507369
+			],
+			"max": [ 0.402119219,
+				1.15350854,
+				0.404507369
+			]
+		},
+		{
+			"bufferView": 14,
+			"count": 1467,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 15,
+			"count": 1467,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 16,
+			"count": 1467,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 17,
+			"count": 9768,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 18,
+			"count": 1818,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.103347525,
+				0.0499997176,
+				-0.151151732
+			],
+			"max": [ 0.135244444,
+				0.866329432,
+				0.172277078
+			]
+		},
+		{
+			"bufferView": 19,
+			"count": 1818,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 20,
+			"count": 1818,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 21,
+			"count": 1818,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 22,
+			"count": 1818,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 23,
+			"count": 2304,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 24,
+			"count": 610,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.193301275,
+				-6.50326354e-17,
+				-0.193301275
+			],
+			"max": [ 0.19330126,
+				0.049999997,
+				0.193301275
+			]
+		},
+		{
+			"bufferView": 25,
+			"count": 610,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 26,
+			"count": 610,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 27,
+			"count": 610,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 28,
+			"count": 610,
+			"type": "VEC2",
+			"componentType": 5126
+		}
+	],
+	"buffers": [
+		{
+			"uri": "Minimal_Default.bin",
+			"byteLength": 486920
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 36,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 288,
+			"byteOffset": 36,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 288,
+			"byteOffset": 324,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 384,
+			"byteOffset": 612,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 192,
+			"byteOffset": 996,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 192,
+			"byteOffset": 1188,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 25920,
+			"byteOffset": 1380,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 46800,
+			"byteOffset": 27300,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 46800,
+			"byteOffset": 74100,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 62400,
+			"byteOffset": 120900,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 31200,
+			"byteOffset": 183300,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 31200,
+			"byteOffset": 214500,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10692,
+			"byteOffset": 245700,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 17604,
+			"byteOffset": 256392,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 17604,
+			"byteOffset": 273996,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 23472,
+			"byteOffset": 291600,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 11736,
+			"byteOffset": 315072,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 19536,
+			"byteOffset": 326808,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 21816,
+			"byteOffset": 346344,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 21816,
+			"byteOffset": 368160,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 29088,
+			"byteOffset": 389976,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 14544,
+			"byteOffset": 419064,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 14544,
+			"byteOffset": 433608,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4608,
+			"byteOffset": 448152,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 7320,
+			"byteOffset": 452760,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 7320,
+			"byteOffset": 460080,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 9760,
+			"byteOffset": 467400,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4880,
+			"byteOffset": 477160,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4880,
+			"byteOffset": 482040,
+			"target": 34962
+		}
+	],
+	"images": [
+		{
+			"uri": "M_Metal_Brushed_Nickel_BaseColor.png"
+		},
+		{
+			"uri": "M_TableRound_BaseColor.png"
+		},
+		{
+			"uri": "M_TableRound_MetallicRoughness.png"
+		},
+		{
+			"uri": "M_Chair_BaseColor.png"
+		},
+		{
+			"uri": "M_Chair_MetallicRoughness.png"
+		},
+		{
+			"uri": "M_Metal_Copper_BaseColor.png"
+		},
+		{
+			"uri": "M_Metal_Copper_MetallicRoughness.png"
+		},
+		{
+			"uri": "M_StatueGlass_Statue_BaseColor.png"
+		},
+		{
+			"uri": "M_Metal_Burnished_Steel_BaseColor.png"
+		},
+		{
+			"uri": "M_Metal_Burnished_Steel_MetallicRoughness.png"
+		},
+		{
+			"uri": "T_TableRound_N.png"
+		},
+		{
+			"uri": "T_Chair_N.png"
+		},
+		{
+			"uri": "T_Metal_Gold_N.png"
+		},
+		{
+			"uri": "T_Statue_N.png"
+		}
+	],
+	"materials": [
+		{
+			"name": "M_Metal_Brushed_Nickel",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 0
+				},
+				"roughnessFactor": 0.400000006
+			}
+		},
+		{
+			"name": "M_TableRound",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 1
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 2
+				}
+			},
+			"normalTexture":
+			{
+				"index": 3
+			}
+		},
+		{
+			"name": "M_Chair",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 4
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 5
+				}
+			},
+			"normalTexture":
+			{
+				"index": 6
+			}
+		},
+		{
+			"name": "M_Metal_Copper",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 7
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 8
+				}
+			},
+			"normalTexture":
+			{
+				"index": 9
+			}
+		},
+		{
+			"name": "M_StatueGlass_Statue",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 10
+				},
+				"metallicFactor": 0.899999976,
+				"roughnessFactor": 0
+			},
+			"normalTexture":
+			{
+				"index": 11
+			},
+			"alphaMode": "BLEND"
+		},
+		{
+			"name": "M_Metal_Burnished_Steel",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 12
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 13
+				}
+			},
+			"normalTexture":
+			{
+				"index": 9
+			}
+		}
+	],
+	"meshes": [
+		{
+			"name": "Floor_400x400",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5
+					},
+					"indices": 0,
+					"material": 0
+				}
+			]
+		},
+		{
+			"name": "SM_TableRound",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 7,
+						"NORMAL": 8,
+						"TANGENT": 9,
+						"TEXCOORD_0": 10,
+						"TEXCOORD_1": 11
+					},
+					"indices": 6,
+					"material": 1
+				}
+			]
+		},
+		{
+			"name": "SM_Chair",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 13,
+						"NORMAL": 14,
+						"TANGENT": 15,
+						"TEXCOORD_0": 16
+					},
+					"indices": 12,
+					"material": 2
+				}
+			]
+		},
+		{
+			"name": "Floor_400x400",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5
+					},
+					"indices": 0,
+					"material": 3
+				}
+			]
+		},
+		{
+			"name": "Statue",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 18,
+						"NORMAL": 19,
+						"TANGENT": 20,
+						"TEXCOORD_0": 21,
+						"TEXCOORD_1": 22
+					},
+					"indices": 17,
+					"material": 4
+				},
+				{
+					"attributes":
+					{
+						"POSITION": 24,
+						"NORMAL": 25,
+						"TANGENT": 26,
+						"TEXCOORD_0": 27,
+						"TEXCOORD_1": 28
+					},
+					"indices": 23,
+					"material": 5
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"name": "PlayerStart_CollisionCapsule",
+			"translation": [ 1.64999998,
+				1.24008834,
+				0
+			],
+			"rotation": [ -0,
+				-1,
+				-0,
+				2.02655792e-06
+			],
+			"children": [ 1, 2, 3 ]
+		},
+		{
+			"name": "PlayerStart_Sprite",
+			"scale": [ 0.5,
+				0.5,
+				0.5
+			]
+		},
+		{
+			"name": "PlayerStart_Sprite2"
+		},
+		{
+			"name": "PlayerStart_Arrow"
+		},
+		{
+			"name": "AtmosphericFog_1_AtmosphericFogComponent0",
+			"translation": [ 4.85999966,
+				2.40999985,
+				-2.76999998
+			],
+			"children": [ 5, 6 ]
+		},
+		{
+			"name": "AtmosphericFog_1_Sprite",
+			"scale": [ 0.5,
+				0.5,
+				0.5
+			]
+		},
+		{
+			"name": "AtmosphericFog_1_ArrowComponent0"
+		},
+		{
+			"name": "Floor_14_StaticMeshComponent0",
+			"translation": [ -4,
+				0.319999993,
+				-2
+			],
+			"scale": [ 1,
+				2,
+				1
+			],
+			"mesh": 0
+		},
+		{
+			"name": "Table_StaticMeshComponent0",
+			"translation": [ -1.79999995,
+				0.319999993,
+				0
+			],
+			"rotation": [ 0,
+				0.906308293,
+				-0,
+				0.422617137
+			],
+			"mesh": 1
+		},
+		{
+			"name": "Chair_StaticMeshComponent0",
+			"translation": [ -2.0999999,
+				0.319999993,
+				1.04999995
+			],
+			"rotation": [ -0,
+				0.237685367,
+				-0,
+				0.971342206
+			],
+			"mesh": 2
+		},
+		{
+			"name": "Chair_15_StaticMeshComponent0",
+			"translation": [ -2.14999986,
+				0.319999993,
+				-1.19999993
+			],
+			"rotation": [ -0,
+				-0.528066874,
+				-0,
+				0.849202812
+			],
+			"mesh": 2
+		},
+		{
+			"name": "SphereReflectionCapture10_NewReflectionComponent",
+			"translation": [ 1.39999998,
+				2.25,
+				0
+			],
+			"children": [ 12, 13, 14, 15 ]
+		},
+		{
+			"name": "SphereReflectionCapture10_Sprite",
+			"scale": [ 0.5,
+				0.5,
+				0.5
+			]
+		},
+		{
+			"name": "SphereReflectionCapture10_CaptureOffset",
+			"scale": [ 0.200000003,
+				0.200000003,
+				0.200000003
+			]
+		},
+		{
+			"name": "SphereReflectionCapture10_DrawRadius0"
+		},
+		{
+			"name": "SphereReflectionCapture10_DrawRadius1"
+		},
+		{
+			"name": "Floor_StaticMeshComponent0",
+			"translation": [ 0,
+				0.319999993,
+				-2
+			],
+			"scale": [ 1,
+				2,
+				1
+			],
+			"mesh": 3
+		},
+		{
+			"name": "Statue_StaticMeshComponent0",
+			"translation": [ -1.80999994,
+				1.01999998,
+				0.00999999978
+			],
+			"rotation": [ -0,
+				0.996194601,
+				-0,
+				0.0871564746
+			],
+			"scale": [ 0.5,
+				0.5,
+				0.5
+			],
+			"mesh": 4
+		},
+		{
+			"name": "Starter_Background_Cue_2_AudioComponent0",
+			"translation": [ 2.14999986,
+				4,
+				0
+			],
+			"children": [ 19 ]
+		},
+		{
+			"name": "Starter_Background_Cue_2_BillboardComponent_0",
+			"scale": [ 0.5,
+				0.5,
+				0.5
+			]
+		},
+		{
+			"name": "SphereReflectionCapture_1_NewReflectionComponent",
+			"translation": [ -2.29999995,
+				2.29999995,
+				0
+			],
+			"children": [ 21, 22, 23, 24 ]
+		},
+		{
+			"name": "SphereReflectionCapture_1_Sprite",
+			"scale": [ 0.5,
+				0.5,
+				0.5
+			]
+		},
+		{
+			"name": "SphereReflectionCapture_1_CaptureOffset",
+			"scale": [ 0.200000003,
+				0.200000003,
+				0.200000003
+			]
+		},
+		{
+			"name": "SphereReflectionCapture_1_DrawRadius0"
+		},
+		{
+			"name": "SphereReflectionCapture_1_DrawRadius1"
+		}
+	],
+	"samplers": [
+		{
+			"name": "M_Metal_Brushed_Nickel_BaseColor",
+			"minFilter": 9987,
+			"magFilter": 9729
+		},
+		{
+			"name": "M_TableRound_BaseColor",
+			"minFilter": 9987,
+			"magFilter": 9729
+		},
+		{
+			"name": "M_TableRound_MetallicRoughness",
+			"minFilter": 9987,
+			"magFilter": 9729
+		},
+		{
+			"name": "M_Chair_BaseColor",
+			"minFilter": 9987,
+			"magFilter": 9729
+		},
+		{
+			"name": "M_Chair_MetallicRoughness",
+			"minFilter": 9987,
+			"magFilter": 9729
+		},
+		{
+			"name": "M_Metal_Copper_BaseColor",
+			"minFilter": 9987,
+			"magFilter": 9729
+		},
+		{
+			"name": "M_Metal_Copper_MetallicRoughness",
+			"minFilter": 9987,
+			"magFilter": 9729
+		},
+		{
+			"name": "M_StatueGlass_Statue_BaseColor",
+			"minFilter": 9987,
+			"magFilter": 9729
+		},
+		{
+			"name": "M_Metal_Burnished_Steel_BaseColor",
+			"minFilter": 9987,
+			"magFilter": 9729
+		},
+		{
+			"name": "M_Metal_Burnished_Steel_MetallicRoughness",
+			"minFilter": 9987,
+			"magFilter": 9729
+		},
+		{
+			"name": "T_TableRound_N",
+			"minFilter": 9987,
+			"magFilter": 9729
+		},
+		{
+			"name": "T_Chair_N",
+			"minFilter": 9987,
+			"magFilter": 9729
+		},
+		{
+			"name": "T_Metal_Gold_N",
+			"minFilter": 9987,
+			"magFilter": 9729
+		},
+		{
+			"name": "T_Statue_N",
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"scenes": [
+		{
+			"name": "Minimal_Default",
+			"nodes": [ 0, 4, 7, 8, 9, 10, 11, 16, 17, 18, 20 ]
+		}
+	],
+	"textures": [
+		{
+			"name": "M_Metal_Brushed_Nickel_BaseColor",
+			"sampler": 0,
+			"source": 0
+		},
+		{
+			"name": "M_TableRound_BaseColor",
+			"sampler": 1,
+			"source": 1
+		},
+		{
+			"name": "M_TableRound_MetallicRoughness",
+			"sampler": 2,
+			"source": 2
+		},
+		{
+			"name": "T_TableRound_N",
+			"sampler": 10,
+			"source": 10
+		},
+		{
+			"name": "M_Chair_BaseColor",
+			"sampler": 3,
+			"source": 3
+		},
+		{
+			"name": "M_Chair_MetallicRoughness",
+			"sampler": 4,
+			"source": 4
+		},
+		{
+			"name": "T_Chair_N",
+			"sampler": 11,
+			"source": 11
+		},
+		{
+			"name": "M_Metal_Copper_BaseColor",
+			"sampler": 5,
+			"source": 5
+		},
+		{
+			"name": "M_Metal_Copper_MetallicRoughness",
+			"sampler": 6,
+			"source": 6
+		},
+		{
+			"name": "T_Metal_Gold_N",
+			"sampler": 12,
+			"source": 12
+		},
+		{
+			"name": "M_StatueGlass_Statue_BaseColor",
+			"sampler": 7,
+			"source": 7
+		},
+		{
+			"name": "T_Statue_N",
+			"sampler": 13,
+			"source": 13
+		},
+		{
+			"name": "M_Metal_Burnished_Steel_BaseColor",
+			"sampler": 8,
+			"source": 8
+		},
+		{
+			"name": "M_Metal_Burnished_Steel_MetallicRoughness",
+			"sampler": 9,
+			"source": 9
+		}
+	]
+}
